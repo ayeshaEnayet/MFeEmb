@@ -1,4 +1,4 @@
-This folder contains our DA classifier in DAC-USE-main folder, BERT baseline model in Bert_Baseline folder
+This repository contains our DA classifier in DAC-USE-main folder, BERT baseline model in Bert_Baseline folder
 GitHubDA contains GitHub Dataset with concatenated text
 Mission1 and Mission2 is ASIST Dataset files with concatenated text
 teamsconcatenatedGame1 and teamsconcatenatedGame2 is Teams Dataset with concatenated text

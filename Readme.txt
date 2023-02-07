@@ -1,4 +1,4 @@
-This repository contains a code to generate multi-feature embedding using Doc2Vec for conflict prediction.
+This repository contains a code to generate multi-feature embedding using Doc2Vec for dialogue analysis.
 GitHubDA contains GitHub Dataset with concatenated text.
 Mission1 and Mission2 are ASIST Dataset files with concatenated text.
 teamsconcatenatedGame1 and teamsconcatenatedGame2 are Teams Datasets with concatenated text.
